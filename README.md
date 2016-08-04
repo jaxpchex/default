@@ -1,2 +1,2 @@
 # default
-Tma wordpress padrão para a cede do site.
+Default template for WZM global site.
